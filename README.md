@@ -1,6 +1,6 @@
 # Ninja Adventure by Raegan Van Raamsdonk
 
-This animated path adventure game is a high school project designed to challenge players with strategic timing and pathfinding. Developed in JavaScript, the game requires players to navigate through levels filled with animated enemy characters who move along set paths. Players must avoid these enemies and reach the end of each level safely. Each level presents increasing difficulty, with more complex enemy paths and challenging layouts.
+This animated path adventure game is designed to challenge players with strategic timing and pathfinding. Developed in JavaScript, the game requires players to navigate through levels filled with animated enemy characters who move along set paths. Players must avoid these enemies and reach the end of each level safely. Each level presents increasing difficulty, with more complex enemy paths and challenging layouts.
 
 <div align="center": style="display: flex; justify-content: space-around; gap: 10px;">
    <img width="400" alt="image" src="https://github.com/user-attachments/assets/46392855-94bb-4aec-b32e-53968794fb8e">
